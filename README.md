@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @brucesensei
-- 👀 I’m interested in skiing and travel.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking for code examples to help the learning process.
-- 📫 How to reach me ...
+- 👋 Hello, My name is Nolan. 
+- 👀 My intersts include playing the guitar and trumpet and organizing local music events. I also make pottery.
+- 🌱 I am learing Python and Java Script and have the Comptia A+ certificate
+- 📫 nolan.bruce@gmail.com
 
 <!---
 brucesensei/brucesensei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
